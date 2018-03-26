@@ -1,3 +1,3 @@
-# coreML
+# ObjectDetection
 
-simple inceptionv3 model with xcode9, sw3, iOS11
+Inceptionv3 model with xcode9, sw3, iOS11
